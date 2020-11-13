@@ -13,7 +13,7 @@
 -- Clue #3: We have new news on the classes Carmen attended – our gumshoes tell us she's moved on
 -- to a different country, a country where people speak only the language she was learning. Find out which
 --  nearby country speaks nothing but that language.
-
+-- Hint: first find the countries where only one language is spoken. Then, in a separate query, find the countries where Italian is spoken. Then cross reference these lists by hand.
 
 
 -- Clue #4: We're booking the first flight out – maybe we've actually got a chance to catch her this time.
